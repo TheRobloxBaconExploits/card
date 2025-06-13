@@ -1,2 +1,0 @@
-# card
-for pluto executor
